@@ -36,3 +36,5 @@ Let's connect! I'm excited about collaborating on innovative projects and contri
 ![](https://komarev.com/ghpvc/?username=abdur-rhaman-babu&color=green)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdur-rhaman-babu)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=abdur-rhaman-babu&show_icons=true&count_private=true)
