@@ -31,3 +31,6 @@ Bringing a wealth of experience, I have successfully contributed to various proj
 Proficient in using industry-standard tools and libraries, I leverage my skills to enhance the development process and create visually appealing, performance-driven websites.
 
 Let's connect! I'm excited about collaborating on innovative projects and contributing to the ever-evolving world of front-end development.
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=abdur-rhaman-babu) 
+![](https://komarev.com/ghpvc/?username=abdur-rhaman-babu&color=green)
