@@ -33,7 +33,7 @@ Proficient in using industry-standard tools and libraries, I leverage my skills 
 Let's connect! I'm excited about collaborating on innovative projects and contributing to the ever-evolving world of front-end development.
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=abdur-rhaman-babu) 
-![](https://komarev.com/ghpvc/?username=abdur-rhaman-babu&color=green)
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdur-rhaman-babu)](https://github.com/anuraghazra/github-readme-stats)
 
