@@ -1,5 +1,5 @@
 ![](https://strapi.dhiwise.com/uploads/618fa90c201104b94458e1fb_629dbed57c7faf3472cf8c33_Medium_How_Micro_Frontend_Architecture_is_Revolutionizing_App_Frontend_Development_925_X400_a698abc086.jpg)
-![](https://i.ibb.co.com/fd5R3TdS/github-profile-banner.png)
+![](https://i.ibb.co.com/MycrkCDQ/github-profile-banner.png)
 Greetings! I'm Abdur Rhaman Babu, a dedicated Frontend Developer with a flair for crafting seamless and user-friendly web experiences. With a solid foundation in HTML, CSS, and JavaScript, I specialize in building dynamic and responsive interfaces that engage users and elevate online presence.
 
 🌐 Key Skills:
