@@ -70,13 +70,6 @@
 
 <h3 align="left">🔥   My Stats :</h3>
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=abdur-rhaman-babu) 
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abdur-rhaman-babu&layout=compact&theme=default&bg_color=FFFFFF)
-
-![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?username=abdur-rhaman-babu&theme=default&background=FFFFFF)
-
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abdur-rhaman-babu)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abdur-rhaman-babu&layout=compact)
