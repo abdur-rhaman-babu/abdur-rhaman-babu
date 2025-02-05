@@ -70,11 +70,10 @@
 
 <h3 align="left">🔥   My Stats :</h3>
 
-![GitHub Streak](https://streak-stats.demolab.com/?username=abdur-rhaman-babu&theme=default&background=FFFFFF)
+![GitHub Streak](https://streak-stats.demolab.com?user=abdur-rhaman-babu&theme=default&hide_border=true&background=FFFFFF)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abdur-rhaman-babu&layout=compact&theme=default&bg_color=FFFFFF)
 ![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?username=abdur-rhaman-babu&theme=default&background=FFFFFF)
-
-
 
 ###
 
