@@ -72,7 +72,7 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=abdur-rhaman-babu&theme=react)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abdur-rhaman-babu&layout=compact&theme=react)
-![GitHub Contributions](https://github-readme-stats.vercel.app/api?username=abdur-rhaman-babu&show_icons=true&theme=default&hide_border=true&include_all_commits=true)
+![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=your-abdur-rhaman-babu&theme=react)
 
 
 ###
