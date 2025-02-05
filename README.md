@@ -72,18 +72,6 @@
 
 ###
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=abdur-rhaman-babu) 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdur-rhaman-babu)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=abdur-rhaman-babu&show_icons=true&count_private=true)
-
-![GitHub Contributions](https://github-readme-stats.vercel.app/api?username=abdur-rhaman-babu&show_icons=true&theme=default&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abdur-rhaman-babu&layout=compact&theme=default&langs_count=5&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abdur-rhaman-babu&theme=default&hide_border=true)
-
 
 
 
