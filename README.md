@@ -74,10 +74,8 @@
 
 ![GitHub Contributions](https://github-readme-stats.vercel.app/api?username=abdur-rhaman-babu&show_icons=true&count_private=true)
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=abdur-rhaman-babu)
+![GitHub streak stats](https://streak-stats.demolab.com/?user=abdur-rhaman-babu)
 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdur-rhaman-babu&show_icons=true&theme=radical)
 
 ###
 
